@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Practical_2_part_b</string>
+    <string name="Toast_text">MeiXue</string>
+    <string name="showToast">MeiXue 19WMD01884</string>
+    <string name="zero">0</string>
+    <string name="count_text" />
+    <string name="count_textcount" />
+    <string name="count_text1">count</string>
+    <string name="toast_message">MEI XUE 19WMD01884</string>
+    <string name="button_zero">ZERO</string>
+</resources>
